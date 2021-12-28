@@ -4,7 +4,6 @@
 #Lib. to calculations
 from scipy.fft import fft
 from scipy.fft import fftfreq
-from scipy.fft import fftshift
 #Lib. to plot
 import matplotlib.pyplot as plt
 #Lib.
