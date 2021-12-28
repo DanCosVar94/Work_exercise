@@ -9,6 +9,6 @@ to the date display period. Once its is calculated, you can plot the result with
 
 E.g COMMANDS :
 
-AiguaSol = API_ree(1293,["2020-10-02T00:00:00+02:00","2020-10-06T23:59:59+02:00"],1,debug=True)
-AiguaSol.get_arrays()
-AiguaSol.plot_results()
+>>AiguaSol = API_ree(1293,["2020-10-02T00:00:00+02:00","2020-10-06T23:59:59+02:00"],1,debug=True)
+>>AiguaSol.get_arrays()
+>>AiguaSol.plot_results()
